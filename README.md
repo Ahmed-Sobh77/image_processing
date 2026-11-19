@@ -2,7 +2,7 @@
 
 A parallel image processing application developed using **C** and **MPI (Message Passing Interface)**. The project distributes image processing tasks across multiple processes to perform image transformations efficiently.
 
-## Features
+## Feature
 
 - **Grayscale:** Converts images to grayscale.
 - **Brightness:** Adjusts image brightness.
